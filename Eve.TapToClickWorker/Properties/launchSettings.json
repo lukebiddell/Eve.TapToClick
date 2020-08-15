@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "Eve.TapToClickWorker": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

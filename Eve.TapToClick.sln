@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.29728.190
+VisualStudioVersion = 16.0.30406.217
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eve.TapToClick", "Eve.TapToClick\Eve.TapToClick.csproj", "{34B74ED8-1362-4F02-BA0E-4F09F64EB567}"
-EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Eve.TapToClick.Installer", "Eve.TapToClick.Installer\Eve.TapToClick.Installer.vdproj", "{D4E8AD68-E863-445D-8862-C6FAAB386E4F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eve.TapToClickWorker", "Eve.TapToClickWorker\Eve.TapToClickWorker.csproj", "{1C44FF5E-5F83-4E7A-8B50-D239655314F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,17 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{34B74ED8-1362-4F02-BA0E-4F09F64EB567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{34B74ED8-1362-4F02-BA0E-4F09F64EB567}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{34B74ED8-1362-4F02-BA0E-4F09F64EB567}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{34B74ED8-1362-4F02-BA0E-4F09F64EB567}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D4E8AD68-E863-445D-8862-C6FAAB386E4F}.Debug|Any CPU.ActiveCfg = Debug
-		{D4E8AD68-E863-445D-8862-C6FAAB386E4F}.Release|Any CPU.ActiveCfg = Release
+		{1C44FF5E-5F83-4E7A-8B50-D239655314F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C44FF5E-5F83-4E7A-8B50-D239655314F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C44FF5E-5F83-4E7A-8B50-D239655314F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C44FF5E-5F83-4E7A-8B50-D239655314F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F25785EB-4D88-40C2-B33A-A8F4E8F28240}
+		SolutionGuid = {5E42D664-79B2-4E47-8D46-9B3608E126ED}
 	EndGlobalSection
 EndGlobal
